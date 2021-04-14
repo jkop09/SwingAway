@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 rand = "0.3"
+fltk = { version = "^0.7.12", features = ["fltk-bundled"] }
